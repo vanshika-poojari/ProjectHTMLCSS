@@ -1,0 +1,23 @@
+.h {
+  color: red;
+}
+
+.toothpaste {
+  text-decoration: underline;
+  color: white;
+}
+.div {
+  background-color: rgb(50, 61, 47);
+}
+.green {
+  color: rgb(163, 230, 163);
+}
+.red {
+  color: red;
+  text-decoration: line-through;
+}
+.pnp {
+  text-decoration: underline;
+  color: white;
+  text-align: left;
+}
